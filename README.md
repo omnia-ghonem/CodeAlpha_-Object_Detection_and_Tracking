@@ -1,5 +1,7 @@
 # Real-Time Object Detection and Tracking using YOLOv8 and Deep SORT
 
+
+
 ## Project Overview
 
 This project implements a **real-time object detection and tracking system** using **OpenCV**, **YOLOv8**, and **Deep SORT**.
@@ -21,11 +23,7 @@ This project demonstrates a complete computer vision pipeline, from acquiring vi
 
 ## System Workflow
 
-<p align="center">
-    <img src="images/project_architecture.png" width="900">
-    <br>
-    <em>Figure 1. Overall Object Detection and Tracking Pipeline</em>
-</p>
+
 
 ```
                  Webcam / Video File
@@ -407,24 +405,14 @@ Starts the real-time object detection and tracking application.
 
 Below is an example of the application's output after detecting and tracking objects in real time.
 
-<p align="center">
-    <img src="images/output.png" width="850">
-    <br>
-    <em>Figure 2. Sample Detection and Tracking Output</em>
+The following animation shows the real-time object detection and tracking process.
+
+<img width="800" height="600" alt="demo" src="https://github.com/user-attachments/assets/e19776d1-4663-4dcf-9664-2aa5922eaf73" />
+
+
+*Figure 3. Real-Time Object Detection and Tracking Demo*
+
 </p>
-
----
-
-# Demonstration
-
-The following GIF demonstrates the application processing a video in real time.
-
-<p align="center">
-    <img src="images/demo.gif" width="900">
-    <br>
-    <em>Figure 3. Real-Time Object Detection and Tracking Demo</em>
-</p>
-
 ---
 
 # Expected Output
