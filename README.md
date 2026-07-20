@@ -407,20 +407,15 @@ Starts the real-time object detection and tracking application.
 
 Below is an example of the application's output after detecting and tracking objects in real time.
 
+The following animation shows the real-time object detection and tracking process.
+
 <p align="center">
-    <img src="images/output.png" width="850">
-    <br>
-    <em>Figure 2. Sample Detection and Tracking Output</em>
+
+![Object Detection Demo](./images/demo.gif)
+
+*Figure 3. Real-Time Object Detection and Tracking Demo*
+
 </p>
-
----
-
-# Demonstration
-
-The following GIF demonstrates the application processing a video in real time.
-
-![Output](images/demo.gif)
-
 ---
 
 # Expected Output
