@@ -405,8 +405,8 @@ Below is an example of the application's output after detecting and tracking obj
 
 The following animation shows the real-time object detection and tracking process.
 
+<img width="800" height="600" alt="demo" src="https://github.com/user-attachments/assets/e19776d1-4663-4dcf-9664-2aa5922eaf73" />
 
-![Object Detection Demo](./images/demo.gif)
 
 *Figure 3. Real-Time Object Detection and Tracking Demo*
 
