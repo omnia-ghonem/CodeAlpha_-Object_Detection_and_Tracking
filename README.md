@@ -419,11 +419,7 @@ Below is an example of the application's output after detecting and tracking obj
 
 The following GIF demonstrates the application processing a video in real time.
 
-<p align="center">
-    <img src="images/demo.gif" width="900">
-    <br>
-    <em>Figure 3. Real-Time Object Detection and Tracking Demo</em>
-</p>
+![Output](images/demo.gif)
 
 ---
 
