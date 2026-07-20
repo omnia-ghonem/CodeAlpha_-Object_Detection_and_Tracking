@@ -21,11 +21,7 @@ This project demonstrates a complete computer vision pipeline, from acquiring vi
 
 ## System Workflow
 
-<p align="center">
-    <img src="images/project_architecture.png" width="900">
-    <br>
-    <em>Figure 1. Overall Object Detection and Tracking Pipeline</em>
-</p>
+
 
 ```
                  Webcam / Video File
