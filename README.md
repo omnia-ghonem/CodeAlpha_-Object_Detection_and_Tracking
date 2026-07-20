@@ -405,7 +405,6 @@ Below is an example of the application's output after detecting and tracking obj
 
 The following animation shows the real-time object detection and tracking process.
 
-<p align="center">
 
 ![Object Detection Demo](./images/demo.gif)
 
